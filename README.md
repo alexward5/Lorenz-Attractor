@@ -1,11 +1,8 @@
 # Lorenz Attractor
 
-Name: Alexander Ward
-
+Name: Alexander Ward\n
 SID: 100301305
-
 CSCI4229
-
 Homework #1
 
 Use make to compile the program, then run the .exe file called "lorenz"
